@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/amsterdam-maps-example/'
+  publicPath: '/amsterdam-maps-example/dist'
 }
